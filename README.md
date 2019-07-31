@@ -100,11 +100,14 @@
 
 ### RESTful api
 ### Security
+- OpenID
+- Token Authentication
+- OAuth
+- BasicAuthentication
+- JWT
+
 ### Docker
 ### Web Sockets
-
-  
-  
 
   
 # Advance 🙌 
@@ -149,10 +152,6 @@
 ### Web Assembly
 
 
-
- 
-  
-  
 ## Back-End
 
 ### Storage
